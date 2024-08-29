@@ -8,7 +8,7 @@
 ```
 
 下载对应浏览器驱动至python.exe目录  
-[驱动下载地址](https://developer.microsoft.com)
+[驱动下载地址](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/webdriver/?form=MA13LH#downloads)
 
 ![image-20240829144818275](pic/image-20240829144818275.png)
 
