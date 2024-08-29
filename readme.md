@@ -10,7 +10,7 @@
 下载对应浏览器驱动至python.exe目录  
 [驱动下载地址](https://developer.microsoft.com)
 
-![image-20240829144818275](C:\Users\zjc6\AppData\Roaming\Typora\typora-user-images\image-20240829144818275.png)
+![image-20240829144818275](pic\image-20240829144818275.png)
 
 ## 运行
 
@@ -49,8 +49,8 @@
 
 ## 展示效果
 
-![image-20240829144621642](C:\Users\zjc6\AppData\Roaming\Typora\typora-user-images\image-20240829144621642.png)
+![image-20240829144621642](pic\image-20240829144621642.png)
 
-![image-20240829144645334](C:\Users\zjc6\AppData\Roaming\Typora\typora-user-images\image-20240829144645334.png)
+![image-20240829144645334](pic\image-20240829144645334.png)
 
-![image-20240829144709901](C:\Users\zjc6\AppData\Roaming\Typora\typora-user-images\image-20240829144709901.png)
+![image-20240829144709901](pic\image-20240829144709901.png)
