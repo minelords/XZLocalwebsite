@@ -4,7 +4,7 @@
 
 ```
 	pip install selenium
-	pip install	fake_useragent
+	pip install fake_useragent
 ```
 
 下载对应浏览器驱动至python.exe目录  
